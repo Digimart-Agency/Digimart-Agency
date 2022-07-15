@@ -1,4 +1,4 @@
-### Dear Reader! 👋
+# Dear Reader! 👋
 <!--
 **Digimart-Agency/Digimart-Agency** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,6 @@ Here are some ideas to get you started:
     Digimart is a Digital Consulting Agency and is determined to provide exceptional digital 
     marketing services throughout any region.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------	
-### About Us:
+# About Us:
     
     
