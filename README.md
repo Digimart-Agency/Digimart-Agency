@@ -30,5 +30,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->	
 ## About Us:
+   ###### A Growth-Focused on Internet Marketing:
+            Digimart team designs are effective content strategies for online advertising, digital advertising, 
+            internet advertising & internet marketing. We have a strong record of elevating search engine rankings.
+            
+            Digimart team designs are effective content strategies for online advertising, digital advertising, 
+            internet advertising & internet marketing. We have a strong record of elevating search engine rankings.
+            
+            Our Advertising will help you develop a sustainable, meaningful relationship with your clients by engaging
+            them with your brand utilizing digital advertising. We work in areas as diverse as search engine optimization, 
+            social media marketing, email marketing, and Lead Generation.
+            
+            At our Digital Agency, We develop Long-Term Relationships with Our Clients based on Truth, Honesty, and Hard Work.
+
     
     
